@@ -1,4 +1,4 @@
 Telefonopslag-Alfred
 ====================
 
-Alfred workflow for looking up danish phone numbers.
+Alfred 2 workflow for looking up danish phone numbers.
